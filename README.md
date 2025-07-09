@@ -88,7 +88,7 @@ The system implements robust error handling for failed requests:
 
 ![image](https://github.com/user-attachments/assets/ed59b10a-9593-4920-b2c7-120842c1447c)
 
-he quality assurance process ensures data integrity through systematic validation and cleaning operations implemented in the utility notebooks.
+The quality assurance process ensures data integrity through systematic validation and cleaning operations implemented in the utility notebooks.
 
 ## File Relationships and Dependencies
 
